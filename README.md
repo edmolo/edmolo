@@ -35,7 +35,5 @@ My work is split between quantitative methods and personality development. In ge
 
 -->
 <img src="https://www.svgrepo.com/show/376330/julia.svg" alt="Julia" width="10%" height="10%">
-<div style="width: 10%; height: 10%; overflow: hidden; border: 1px solid #000;">
-	<img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.svg" alt="Stan logo" style="margin-left: -50px; margin-top: -30px; width: 400px; max-width: none;" />
-</div>
+<img src="stan_logo.png" alt="Stan" width="10%" height="10%">
 
