@@ -34,3 +34,5 @@ My work is split between quantitative methods and personality development. In ge
 <img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.svg" alt="Stan" width="25%" height="25%">
 
 --> 
+https://www.svgrepo.com/show/376330/julia.svg
+<img src = "https://www.svgrepo.com/show/376330/julia.svg" alt = "Julia" width="10%", height="10%"> 
