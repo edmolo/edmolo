@@ -30,6 +30,5 @@ My work is split between quantitative methods and personality development. In ge
   - New ways to model terminal declines in personality and well-being
 
 - 🌱 I’m currently learning ...
-<img src="https://github.com/stan-dev/logos/blob/master/logo_tm.svg", alt = "Stan" width="25%" height="25%"> 
-
+<img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.svg" alt="Stan" width="25%" height="25%">
 
